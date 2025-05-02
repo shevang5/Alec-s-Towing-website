@@ -210,7 +210,6 @@ section {
   height: 100vh;
   min-height: 600px;
   background: linear-gradient(rgba(15, 23, 42, 0.7), rgba(15, 23, 42, 0.7)), url("images/486455279_9431371370280482_3562320019458794773_n.jpeg") no-repeat center center/cover;
-  background-position: 50% 10%;
   display: flex;
   align-items: center;
   justify-content: center;
