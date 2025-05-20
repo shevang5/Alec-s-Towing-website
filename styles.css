@@ -768,6 +768,9 @@ section {
   }
 }
 @media (max-width: 768px) {
+  .map iframe {
+    width: 100%;
+  }
   .navbar .menu-toggle {
     display: flex;
   }
